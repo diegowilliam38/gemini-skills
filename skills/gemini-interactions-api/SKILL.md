@@ -34,7 +34,7 @@ description: Use this skill when writing code that calls the Gemini API for text
 
 ### Current SDKs
 
-- **Python**: `google-genai` >= `2.0.0` → `pip install -U google-genai`
+- **Python**: `google-genai` >= `2.0.1` → `pip install -U google-genai`
 - **JavaScript/TypeScript**: `@google/genai` >= `2.0.0` → `npm install @google/genai`
 
 > [!NOTE]
