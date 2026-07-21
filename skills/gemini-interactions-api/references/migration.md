@@ -100,7 +100,7 @@ Every item is tagged: **`[BLOCKS]`** items cause errors or broken behavior if mi
 
 ### Migrate to Gemini 3.6 Flash or Gemini 3.5 Flash-Lite
 
-Use this checklist if the user requests to migrate to Gemini 3.6 Flash or Gemini 3.5 Flash-Lite. For full documentation of the changes, fetch the [Latest Gemini models guide](https://ai.google.dev/gemini-api/docs//latest-model.md.txt) and look for the migration section.
+Use this checklist if the user requests to migrate to Gemini 3.6 Flash or Gemini 3.5 Flash-Lite. For full documentation of the changes, fetch the [Latest Gemini models guide](https://ai.google.dev/gemini-api/docs/latest-model.md.txt) and look for the migration section.
 
 - [ ] Updated model name to `gemini-3.6-flash` or `gemini-3.5-flash-lite` (depending on user request)
 - [ ] Removed `temperature`, `top_p`, `top_k` from config
